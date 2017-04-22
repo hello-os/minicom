@@ -1,0 +1,2 @@
+# minicom
+study minicom code
